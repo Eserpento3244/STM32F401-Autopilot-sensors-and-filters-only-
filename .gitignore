@@ -1,0 +1,15 @@
+# STM32CubeIDE
+*.launch
+*.settings/
+*.ioc
+*.mxproject
+*.log
+*.db
+*.elf
+*.bin
+*.hex
+
+# Build folders
+build/
+Debug/
+Release/
